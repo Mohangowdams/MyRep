@@ -1,0 +1,18 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample Test Suite" duration-ms="14" started-at="2016-10-02T23:27:05Z" finished-at="2016-10-02T23:27:05Z">
+    <groups>
+    </groups>
+    <test name="Sample Test" duration-ms="14" started-at="2016-10-02T23:27:05Z" finished-at="2016-10-02T23:27:05Z">
+      <class name="com.antrun.AntDemo2">
+        <test-method status="PASS" signature="test2()" name="test2" duration-ms="0" started-at="2016-10-02T23:27:05Z" finished-at="2016-10-02T23:27:05Z">
+        </test-method>
+      </class>
+      <class name="com.antrun.AntDemo">
+        <test-method status="PASS" signature="test1()" name="test1" duration-ms="5" started-at="2016-10-02T23:27:05Z" finished-at="2016-10-02T23:27:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
